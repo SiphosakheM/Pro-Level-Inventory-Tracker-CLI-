@@ -31,5 +31,5 @@ This is a professional Inventory Management System built with Python. It shows h
 1. Clone this repository.
 2. Run the application:
    ```bash
-   python inventory_manager.py
+   python main.py
    ```
