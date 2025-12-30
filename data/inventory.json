@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Apple",
+        "Id": "48516",
+        "quantity": 50
+    },
+    {
+        "name": "Eggs",
+        "Id": "2594",
+        "quantity": 90
+    },
+    {
+        "name": "Milk",
+        "Id": "75698",
+        "quantity": 4
+    }
+]
